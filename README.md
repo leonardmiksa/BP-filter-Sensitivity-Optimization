@@ -25,8 +25,8 @@ Tools used:
 
 
 Author:
-Leonard Mikša
-MSc Electrical Engineering student  
-📧 [leonardmiksa@gmail.com](mailto:leonardmiksa@gmail.com)
+Leonard Mikša,
+MSc Electrical Engineering student,  
+Email: [leonardmiksa@gmail.com](mailto:leonardmiksa@gmail.com)
 
 > *This repository is currently under active development as part of my Master's thesis project.*
