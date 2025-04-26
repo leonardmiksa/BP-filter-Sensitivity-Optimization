@@ -1,7 +1,7 @@
 # Sensitivity Optimization of a 4th-Order Chebyshev Bandpass Filter in CBQ Structure
 
 This project focuses on analyzing and minimizing the sensitivity of a fourth-order Chebyshev bandpass filter implemented in a *Cascade of Biquadratic (CBQ)* structure.  
-This work is also my Master's thesis.
+This work is also my Master's thesis in Electrical Engineering.
 
 The goal is to reduce the impact of real-world component tolerances (resistor and capacitor variations) on the filter's key performance metrics, such as center frequency, quality factor (Q), and gain.
 
