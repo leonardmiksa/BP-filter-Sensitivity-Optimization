@@ -29,6 +29,10 @@ For sensitivity analysis, Schoeffler sensitivity and multiparameter sensitivity 
 
 ![Sensitivity Optimization Results](sensitivity_optimization_results.png)
 
+The following table shows the decrease in sensitivity for both optimization cases. As seen, with half the ratio *k*, the decrease in sensitivity was only 4% less than with *k=10*. Additionally, values for resistors and capacitors for cascade structure, feedback structure, and optimized feedback structures are shown.
+
+![Element values and comparison](tables.png)
+
 Author:
 Leonard Mikša,
 MSc Electrical Engineering student,  
