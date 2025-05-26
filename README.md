@@ -27,7 +27,7 @@ Tools used:
 
 For sensitivity analysis, Schoeffler sensitivity and multiparameter sensitivity were recorded. The obtained optimization results are shown below, as well as the table with filter element values for all optimized structures. Two cases of optimization are shown - one where the ratio between element values is 10 which could potentially cause some undesired effects such as voltage imbalance, more pronounced current noise effects..., and another where the ratio is 5, obtained by examination of the rate of change of multiparameter sensitivity with respect to ratio where it was concluded that with the half of ratio the sensitivity increased by only 6%.
 
-
+![Sensitivity Optimization Results](sensitivity_optimization_results.png)
 
 Author:
 Leonard Mikša,
